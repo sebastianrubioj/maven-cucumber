@@ -46,7 +46,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!-- TestNG suite XML files -->
-                        <suiteXmlFile>Suite.xml</suiteXmlFile>
+                        <suiteXmlFile>C:\Users\sebastian.rubio\Documents\UdemyJenkins\cucumber_mvn_project\src\test\java\com\globant\training\app\webAutomation\Suite.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
